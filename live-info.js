@@ -4,7 +4,7 @@ const INVASION_WORDS = {
   2: 'MordorIsengard',
   3: 'Lotr',
   4: 'Mulan',
-  5: 'NightmareIsengard',
+  5: 'Nightmare Isengard',
   6: 'Rome',
   7: 'Barbarian',
   9: 'Triax',
